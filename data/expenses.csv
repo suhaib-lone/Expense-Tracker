@@ -1,0 +1,138 @@
+Date,Category,Amount,Description
+2024-10-01,Grocery,60,Weekly grocery shopping
+2024-10-01,Snacks,15,Chips
+2024-10-01,Lunch,30,Office lunch
+2024-10-02,Transport,20,Bus fare to work
+2024-10-02,Snacks,10,Chocolate
+2024-10-02,Lunch,35,Takeout lunch
+2024-10-03,Stationary,15,Notebooks and pens
+2024-10-03,Snacks,10,Coffee
+2024-10-03,Lunch,25,Fast food
+2024-10-04,Transport,25,Taxi ride
+2024-10-04,Snacks,10,Granola bar
+2024-10-04,Lunch,30,Cafeteria meal
+2024-10-05,Grocery,50,Snacks and beverages
+2024-10-05,Snacks,10,Soda
+2024-10-05,Lunch,40,Restaurant lunch
+2024-10-06,Transport,15,Subway fare
+2024-10-06,Snacks,15,Cookies
+2024-10-06,Lunch,35,Home-cooked meal
+2024-10-07,Stationary,20,Art supplies
+2024-10-07,Snacks,5,Fruit
+2024-10-07,Lunch,25,Leftovers
+2024-10-08,Fees,150,Online course fee
+2024-10-08,Transport,20,Bus fare
+2024-10-08,Snacks,10,Nuts
+2024-10-08,Lunch,35,Wrap from deli
+2024-10-09,Grocery,45,Vegetables and fruits
+2024-10-09,Lunch,30,Office cafeteria
+2024-10-09,Snacks,15,Energy bar
+2024-10-10,Transport,25,Taxi ride
+2024-10-10,Lunch,40,Restaurant meal
+2024-10-10,Snacks,10,Popcorn
+2024-10-11,Stationary,10,Pens and markers
+2024-10-11,Lunch,35,Salad from deli
+2024-10-11,Snacks,10,Cookies
+2024-10-12,Grocery,65,Weekly stock-up
+2024-10-12,Lunch,50,Dine-out with friends
+2024-10-12,Snacks,20,Ice cream
+2024-10-13,Transport,15,Bus fare
+2024-10-13,Lunch,30,Packed lunch
+2024-10-13,Snacks,5,Tea
+2024-10-14,Grocery,55,Groceries and toiletries
+2024-10-14,Lunch,25,Office canteen
+2024-10-14,Snacks,10,Chips
+2024-10-15,Fees,150,Monthly subscription
+2024-10-15,Lunch,35,Sandwich
+2024-10-15,Snacks,10,Nuts
+2024-10-16,Transport,20,Bus fare to work
+2024-10-16,Lunch,30,Takeaway
+2024-10-16,Snacks,15,Fruit salad
+2024-10-17,Stationary,25,Notebooks
+2024-10-17,Lunch,25,Fast food
+2024-10-17,Snacks,10,Chocolate bar
+2024-10-18,Grocery,60,Monthly supplies
+2024-10-18,Lunch,30,Workplace meal
+2024-10-18,Snacks,10,Energy drink
+2024-10-19,Transport,20,Cab fare
+2024-10-19,Lunch,35,Homemade meal
+2024-10-19,Snacks,15,Granola
+2024-10-20,Fees,150,Event registration
+2024-10-20,Lunch,40,Outside meal
+2024-10-20,Snacks,10,Cookies
+2024-10-21,Grocery,70,Stocking essentials
+2024-10-21,Lunch,25,Office canteen
+2024-10-21,Snacks,10,Biscuits
+2024-10-22,Transport,25,Metro fare
+2024-10-22,Lunch,30,Takeaway
+2024-10-22,Snacks,5,Juice
+2024-10-23,Stationary,20,Office supplies
+2024-10-23,Lunch,30,Pasta
+2024-10-23,Snacks,15,Chips
+2024-10-24,Grocery,50,Fruits and snacks
+2024-10-24,Lunch,35,Wrap
+2024-10-24,Snacks,15,Coffee
+2024-10-25,Fees,150,Workshop fees
+2024-10-25,Lunch,40,Dine-out
+2024-10-25,Snacks,10,Ice cream
+2024-10-26,Transport,20,Bus fare
+2024-10-26,Lunch,25,Office lunch
+2024-10-26,Snacks,5,Fruit
+2024-10-27,Grocery,45,Vegetables
+2024-10-27,Lunch,30,Sandwich
+2024-10-27,Snacks,10,Chips
+2024-10-28,Stationary,15,Books
+2024-10-28,Lunch,25,Work lunch
+2024-10-28,Snacks,15,Popcorn
+2024-10-29,Transport,20,Cab fare
+2024-10-29,Lunch,30,Takeaway
+2024-10-29,Snacks,10,Nuts
+2024-10-30,Grocery,60,Groceries
+2024-10-30,Lunch,35,Office canteen
+2024-10-30,Snacks,10,Biscuits
+2024-10-31,Fees,150,Subscription renewal
+2024-10-31,Lunch,40,Restaurant meal
+2024-10-31,Snacks,10,Chocolate
+2024-11-01,Grocery,45,Monthly grocery haul
+2024-11-01,Snacks,12,Chips
+2024-11-01,Lunch,28,Takeout lunch
+2024-11-02,Transport,18,Train fare
+2024-11-02,Snacks,8,Coffee
+2024-11-02,Lunch,32,Restaurant meal
+2024-11-03,Stationary,12,Notebooks
+2024-11-03,Snacks,10,Granola bar
+2024-11-03,Lunch,26,Takeout lunch
+2024-11-04,Transport,22,Taxi fare
+2024-11-04,Snacks,9,Cookies
+2024-11-04,Lunch,34,Home-cooked meal
+2024-11-05,Grocery,50,Weekly grocery shopping
+2024-11-05,Snacks,11,Chocolate
+2024-11-05,Lunch,40,Office lunch
+2024-11-06,Transport,15,Bus fare
+2024-11-06,Snacks,10,Soda
+2024-11-06,Lunch,35,Fast food
+2024-11-07,Stationary,20,Art supplies
+2024-11-07,Snacks,7,Fruit
+2024-11-07,Lunch,30,Leftovers
+2024-11-08,Fees,150,Online course fee
+2024-11-08,Transport,25,Subway fare
+2024-11-08,Snacks,12,Nuts
+2024-11-08,Lunch,33,Wrap from deli
+2024-11-09,Grocery,60,Weekly grocery shopping
+2024-11-09,Snacks,15,Coffee
+2024-11-09,Lunch,28,Takeout lunch
+2024-11-10,Transport,20,Bus fare to work
+2024-11-10,Snacks,10,Chips
+2024-11-10,Lunch,35,Office lunch
+2024-11-11,Stationary,18,Stationary supplies
+2024-11-11,Snacks,9,Granola bar
+2024-11-11,Lunch,32,Takeout lunch
+2024-11-12,Transport,22,Taxi fare
+2024-11-12,Snacks,8,Soda
+2024-11-12,Lunch,30,Cafeteria meal
+2024-11-13,Grocery,55,Weekly grocery haul
+2024-11-13,Snacks,10,Chips
+2024-11-13,Lunch,33,Restaurant lunch
+2024-11-14,Transport,18,Train fare
+2024-11-14,Snacks,7,Coffee
+2024-11-14,Lunch,36,Home-cooked meal
