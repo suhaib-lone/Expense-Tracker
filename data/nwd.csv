@@ -1,0 +1,501 @@
+Date,Category,Description,Amount
+2023-08-21,Entertainment,Gym membership,2667.73
+2023-10-23,Travel,Dinner at a restaurant,2717.62
+2023-12-21,Gifts,Doctor appointment,4147.18
+2023-11-11,Personal Care,Concert ticket,4670.15
+2023-02-12,Investment,Train ticket to city,4117.22
+2023-01-26,Pet Care,Flight booking,2865.05
+2023-03-14,Home Supplies,Child tuition fee,4564.94
+2023-05-08,Entertainment,Vet appointment,2840.95
+2023-07-18,Healthcare,Concert ticket,4242.13
+2023-08-04,Subscriptions,Pharmacy visit,4258.12
+2023-02-27,Utilities,Gift for parents,2293.58
+2023-02-09,Education,Doctor appointment,4695.09
+2023-03-08,Fitness,Bought vegetables and fruits,1776.45
+2023-07-08,Education,Cleaning supplies,3385.08
+2023-12-28,Books,Amazon shopping,3208.42
+2023-08-23,Entertainment,Vet appointment,4711.46
+2023-12-04,Investment,Amazon shopping,2062.24
+2023-12-19,Groceries,Electricity bill payment,638.42
+2023-08-15,Groceries,Gym membership,2122.69
+2023-07-19,Groceries,Weekend getaway,4039.22
+2023-01-22,Utilities,Vet appointment,1535.53
+2023-09-22,Dining Out,Weekend getaway,1181.01
+2023-05-05,Healthcare,Cleaning supplies,1859.74
+2023-05-20,Insurance,Doctor appointment,3781.48
+2023-04-09,Clothing,Toiletries purchase,4459.52
+2023-11-21,Education,Concert ticket,2441.34
+2023-12-13,Books,Birthday gift for friend,1971.1
+2023-08-30,Entertainment,Water bill,814.21
+2023-01-17,Education,Purchased novel,472.3
+2023-05-02,Travel,Spa session,2569.19
+2023-01-19,Subscriptions,Amazon shopping,3524.18
+2023-04-27,Books,Vet appointment,4124.12
+2023-09-01,Education,Online course fee,979.43
+2023-06-02,Healthcare,Child tuition fee,3510.63
+2023-09-18,Entertainment,Stock investment,3556.78
+2023-11-23,Investment,Dinner at a restaurant,3978.78
+2023-04-03,Insurance,Laptop accessories,3288.79
+2023-05-09,Pet Care,Water bill,222.81
+2023-01-10,Entertainment,Online course fee,4514.73
+2023-08-24,Personal Care,Bought new shoes,4566.18
+2023-08-01,Education,Concert ticket,4958.89
+2023-09-26,Books,Yoga class fee,4093.63
+2023-01-16,Groceries,Netflix subscription,3352.09
+2023-10-31,Groceries,Bought new shoes,923.18
+2023-09-10,Subscriptions,Stock investment,3738.07
+2023-01-20,Education,Spa session,4340.47
+2023-08-02,Pet Care,Bought new shoes,1236.79
+2023-05-13,Healthcare,Electricity bill payment,1261.76
+2023-10-18,Insurance,Flight booking,3714.44
+2023-08-09,Pet Care,Birthday gift for friend,4069.04
+2023-05-02,Rent,Online course fee,1617.63
+2023-11-21,Pet Care,Bus fare,3029.99
+2023-04-16,Rent,Purchased novel,2472.75
+2023-01-10,Books,Yoga class fee,2933.81
+2023-01-10,Entertainment,Movie tickets,3053.47
+2023-09-28,Healthcare,Amazon shopping,364.27
+2023-05-26,Gifts,Birthday gift for friend,2188.43
+2023-09-02,Groceries,Netflix subscription,2647.38
+2023-11-06,Utilities,Magazine subscription,1622.24
+2023-04-27,Groceries,Train ticket to city,3439.07
+2023-08-15,Education,Water bill,4318.84
+2023-10-28,Healthcare,Flight booking,1240.29
+2023-04-26,Rent,Movie tickets,3910.65
+2023-10-07,Insurance,Internet bill,3775.47
+2023-01-30,Dining Out,Vet appointment,2871.42
+2023-07-23,Fitness,Bus fare,3084.24
+2023-03-05,Books,Electricity bill payment,2285.63
+2023-01-22,Rent,Uber ride,4300.38
+2023-02-18,Pet Care,Concert ticket,1748.12
+2023-08-11,Personal Care,Bus fare,4696.58
+2023-07-07,Rent,Stock investment,3449.73
+2023-05-15,Fitness,Uber ride,2592.53
+2023-05-19,Insurance,Child tuition fee,1686.62
+2023-09-02,Healthcare,Pharmacy visit,1511.61
+2023-08-05,Gifts,Monthly rent payment,201.05
+2023-10-09,Home Supplies,Doctor appointment,4956.45
+2023-08-12,Personal Care,Spa session,2903.06
+2023-11-17,Clothing,Stock investment,1940.89
+2023-03-10,Education,Birthday gift for friend,1365.57
+2023-12-04,Investment,Movie tickets,1252.58
+2023-10-28,Rent,Weekend getaway,406.51
+2023-09-04,Groceries,Flight booking,4163.68
+2023-09-19,Home Supplies,Cleaning supplies,1619.35
+2023-11-03,Fitness,Pharmacy visit,1381.72
+2023-06-17,Entertainment,Water bill,2531.03
+2023-12-16,Books,Gym membership,2319.78
+2023-08-08,Clothing,Cleaning supplies,4782.9
+2023-10-06,Entertainment,Lunch at food court,367.36
+2023-05-06,Rent,Concert ticket,880.17
+2023-08-23,Gifts,Movie tickets,884.11
+2023-07-13,Groceries,Lunch at food court,4945.51
+2023-08-31,Entertainment,Gift for parents,3860.13
+2023-09-19,Home Supplies,Child tuition fee,3085.39
+2023-02-28,Travel,Flight booking,4409.28
+2023-06-20,Rent,Bought new shoes,1975.42
+2023-06-27,Pet Care,New backpack,1869.61
+2023-02-05,Entertainment,Netflix subscription,484.17
+2023-02-04,Dining Out,Internet bill,3266.39
+2023-12-30,Pet Care,Purchased novel,4668.7
+2023-05-15,Clothing,Toiletries purchase,2750.08
+2023-05-06,Groceries,Dinner at a restaurant,4920.05
+2023-04-11,Home Supplies,Mobile recharge,4144.71
+2023-01-22,Gifts,Lunch at food court,3735.91
+2023-04-10,Subscriptions,Pharmacy visit,1216.12
+2023-05-19,Fitness,Lunch at food court,1530.92
+2023-03-21,Home Supplies,Monthly rent payment,4663.91
+2023-04-04,Education,Concert ticket,3747.15
+2023-05-24,Subscriptions,Laptop accessories,4744.33
+2023-12-31,Rent,Netflix subscription,4479.43
+2023-10-01,Home Supplies,Bus fare,4471.88
+2023-09-25,Groceries,Amazon shopping,775.09
+2023-02-02,Gifts,Pharmacy visit,3726.81
+2023-10-11,Personal Care,Bought new shoes,2696.41
+2023-07-01,Utilities,Concert ticket,4327.21
+2023-12-24,Entertainment,Bought new shoes,1674.35
+2023-09-22,Pet Care,Bought vegetables and fruits,1173.09
+2023-09-04,Groceries,Bought new shoes,1763.25
+2023-04-26,Fitness,Gift for parents,4164.45
+2023-10-31,Utilities,Spa session,2214.86
+2023-07-11,Personal Care,Lunch at food court,4178.99
+2023-06-02,Education,Pharmacy visit,2743.59
+2023-12-09,Rent,Car insurance,1825.96
+2023-01-09,Home Supplies,Toiletries purchase,1257.38
+2023-04-22,Entertainment,Stock investment,3081.65
+2023-11-06,Travel,New backpack,2976.51
+2023-11-13,Travel,Child tuition fee,2535.34
+2023-11-15,Entertainment,Mobile recharge,165.33
+2023-09-16,Insurance,Concert ticket,4300.01
+2023-05-21,Groceries,Cleaning supplies,4453.93
+2023-04-28,Gifts,Uber ride,3350.57
+2023-06-29,Pet Care,Dinner at a restaurant,4626.58
+2023-04-17,Clothing,Cleaning supplies,3711.49
+2023-06-22,Utilities,Vet appointment,1813.86
+2023-10-14,Books,Cleaning supplies,1396.6
+2023-11-16,Travel,Concert ticket,1488.52
+2023-07-25,Clothing,Monthly rent payment,3778.37
+2023-03-31,Fitness,Water bill,4807.26
+2023-10-04,Home Supplies,Child tuition fee,486.21
+2023-07-30,Subscriptions,Internet bill,3695.72
+2023-07-21,Utilities,Cleaning supplies,1543.9
+2023-08-07,Fitness,Uber ride,3297.76
+2023-11-28,Gifts,Toiletries purchase,361.31
+2023-05-01,Books,Spa session,2604.87
+2023-04-07,Dining Out,Concert ticket,3864.62
+2023-08-08,Fitness,Internet bill,2412.88
+2023-06-28,Pet Care,Concert ticket,2084.23
+2023-08-05,Rent,Yoga class fee,1270.35
+2023-04-14,Home Supplies,Birthday gift for friend,1469.1
+2023-10-26,Entertainment,Bus fare,4636.78
+2023-07-28,Education,Online course fee,4222.95
+2023-08-28,Investment,Doctor appointment,176.72
+2023-08-21,Gifts,New backpack,2453.3
+2023-11-14,Books,Doctor appointment,338.39
+2023-04-02,Utilities,Amazon shopping,3025.2
+2023-06-10,Entertainment,Internet bill,4843.37
+2023-07-24,Dining Out,Doctor appointment,4078.54
+2023-01-21,Pet Care,Mobile recharge,4501.15
+2023-06-05,Entertainment,Purchased novel,3834.68
+2023-12-11,Books,Weekend getaway,1901.82
+2023-02-22,Clothing,Gym membership,284.31
+2023-03-27,Home Supplies,Yoga class fee,2256.72
+2023-02-11,Fitness,Pharmacy visit,4213.22
+2023-09-07,Groceries,Stock investment,283.94
+2023-08-09,Travel,Yoga class fee,2939.37
+2023-04-25,Home Supplies,Mobile recharge,3328.43
+2023-03-25,Pet Care,Flight booking,4357.59
+2023-09-19,Entertainment,Birthday gift for friend,1588.6
+2023-02-11,Home Supplies,Netflix subscription,406.37
+2023-05-26,Personal Care,Toiletries purchase,276.47
+2023-12-22,Fitness,Haircut and grooming,3138.32
+2023-02-09,Books,Internet bill,3843.47
+2023-10-24,Gifts,Netflix subscription,3814.85
+2023-11-09,Entertainment,Spa session,88.65
+2023-09-12,Pet Care,Netflix subscription,3737.43
+2023-10-15,Travel,Concert ticket,3814.84
+2023-10-07,Entertainment,Doctor appointment,4321.5
+2023-07-28,Home Supplies,Online course fee,3633.42
+2023-04-11,Rent,Magazine subscription,239.16
+2023-06-03,Books,Health insurance premium,1986.79
+2023-03-07,Gifts,Water bill,572.57
+2023-07-14,Books,Cleaning supplies,1359.25
+2023-07-20,Home Supplies,Gym membership,4556.29
+2023-12-04,Dining Out,Flight booking,875.43
+2023-07-14,Rent,Water bill,3509.44
+2023-06-25,Rent,Monthly rent payment,831.72
+2023-09-01,Travel,Mobile recharge,499.21
+2023-11-23,Groceries,Lunch at food court,4218.13
+2023-01-18,Entertainment,Gym membership,2397.01
+2023-12-07,Gifts,Yoga class fee,196.84
+2023-12-01,Subscriptions,New backpack,65.59
+2023-12-04,Insurance,Uber ride,4065.98
+2023-07-20,Investment,Movie tickets,3819.43
+2023-11-14,Books,Spa session,3458.07
+2023-12-06,Fitness,Internet bill,3834.5
+2023-06-03,Personal Care,Yoga class fee,644.75
+2023-07-09,Healthcare,Dinner at a restaurant,4468.43
+2023-06-11,Entertainment,Online course fee,2111.71
+2023-08-19,Personal Care,Child tuition fee,1531.08
+2023-10-07,Personal Care,Vet appointment,1272.47
+2023-10-17,Groceries,Weekend getaway,2750.08
+2023-06-28,Utilities,Yoga class fee,669.3
+2023-11-23,Fitness,Stock investment,2323.42
+2023-10-09,Clothing,Haircut and grooming,1246.7
+2023-08-26,Travel,Uber ride,3565.12
+2023-04-27,Entertainment,Stock investment,829.28
+2023-12-10,Education,Yoga class fee,4597.21
+2023-03-03,Books,New backpack,3219.56
+2023-05-10,Entertainment,Vet appointment,870.4
+2023-11-07,Healthcare,Laptop accessories,4308.27
+2023-01-29,Gifts,Movie tickets,3356.68
+2023-01-16,Dining Out,Mobile recharge,1283.12
+2023-10-14,Healthcare,Pharmacy visit,1558.51
+2023-08-05,Clothing,Dinner at a restaurant,825.85
+2023-11-02,Dining Out,Concert ticket,3199.31
+2023-06-05,Clothing,Cleaning supplies,927.48
+2023-12-01,Utilities,Uber ride,4564.47
+2023-12-15,Travel,Birthday gift for friend,3004.37
+2023-08-07,Dining Out,Doctor appointment,494.58
+2023-08-25,Utilities,Toiletries purchase,2303.2
+2023-10-13,Travel,Netflix subscription,167.89
+2023-12-14,Fitness,Internet bill,281.31
+2023-06-19,Healthcare,Health insurance premium,698.86
+2023-08-31,Investment,Mobile recharge,235.0
+2023-06-24,Utilities,Water bill,4443.06
+2023-10-10,Personal Care,Train ticket to city,2730.33
+2023-01-30,Subscriptions,Bus fare,1004.85
+2023-12-27,Insurance,Bus fare,4985.51
+2023-06-15,Fitness,Bought vegetables and fruits,4795.15
+2023-07-27,Home Supplies,Netflix subscription,1951.38
+2023-02-07,Education,Haircut and grooming,3128.72
+2023-04-10,Personal Care,Bought vegetables and fruits,3120.74
+2023-02-18,Pet Care,Monthly rent payment,4378.53
+2023-05-21,Books,Health insurance premium,2095.48
+2023-03-09,Insurance,Cleaning supplies,258.85
+2023-07-22,Utilities,Pharmacy visit,2266.21
+2023-02-13,Subscriptions,Water bill,4847.55
+2023-07-05,Insurance,Purchased novel,1668.69
+2023-04-08,Utilities,Vet appointment,182.96
+2023-05-10,Subscriptions,Amazon shopping,585.15
+2023-09-23,Groceries,Spa session,853.59
+2023-03-06,Books,Electricity bill payment,720.13
+2023-08-13,Healthcare,Health insurance premium,953.47
+2023-07-15,Groceries,Weekend getaway,111.37
+2023-06-27,Dining Out,Mobile recharge,1097.16
+2023-01-02,Clothing,Magazine subscription,3243.91
+2023-07-25,Personal Care,Birthday gift for friend,2743.12
+2023-08-04,Home Supplies,Bought new shoes,4775.73
+2023-05-28,Rent,Mobile recharge,3957.17
+2023-09-12,Pet Care,Birthday gift for friend,1494.63
+2023-01-29,Education,Birthday gift for friend,3565.6
+2023-10-07,Gifts,Uber ride,60.04
+2023-06-06,Healthcare,Pharmacy visit,3312.89
+2023-08-08,Groceries,Online course fee,4455.83
+2023-07-05,Entertainment,Monthly rent payment,3969.65
+2023-11-11,Gifts,Spa session,3607.27
+2023-06-03,Books,Bought vegetables and fruits,1334.54
+2023-06-09,Gifts,Yoga class fee,2649.16
+2023-11-04,Education,Amazon shopping,3860.64
+2023-01-17,Gifts,Uber ride,3175.6
+2023-04-15,Books,Car insurance,50.53
+2023-08-30,Healthcare,Netflix subscription,2389.06
+2023-01-18,Clothing,Pharmacy visit,4225.04
+2023-12-15,Rent,Toiletries purchase,1890.77
+2023-08-08,Travel,Mobile recharge,3546.17
+2023-01-30,Dining Out,Gym membership,4688.81
+2023-08-06,Fitness,Car insurance,3114.12
+2023-07-15,Personal Care,Movie tickets,82.89
+2023-02-14,Entertainment,Toiletries purchase,4474.49
+2023-11-26,Clothing,Purchased novel,3924.29
+2023-07-26,Home Supplies,Water bill,2198.52
+2023-10-26,Travel,Train ticket to city,636.06
+2023-09-12,Travel,Online course fee,4488.44
+2023-08-30,Insurance,Pharmacy visit,2352.73
+2023-02-22,Utilities,Uber ride,3285.23
+2023-05-08,Clothing,Birthday gift for friend,2616.26
+2023-01-20,Utilities,Haircut and grooming,521.49
+2023-10-09,Books,Gift for parents,220.15
+2023-04-03,Travel,Car insurance,3838.88
+2023-01-29,Gifts,Pharmacy visit,1544.95
+2023-10-08,Fitness,Gift for parents,1384.26
+2023-10-12,Utilities,Bought new shoes,3525.01
+2023-10-09,Entertainment,Weekend getaway,4951.63
+2023-07-23,Dining Out,Amazon shopping,3371.5
+2023-07-18,Healthcare,Electricity bill payment,2830.78
+2023-05-09,Healthcare,Toiletries purchase,3280.53
+2023-06-16,Books,Cleaning supplies,2894.24
+2023-01-10,Healthcare,Movie tickets,2225.31
+2023-08-07,Insurance,New backpack,4836.73
+2023-02-17,Clothing,Stock investment,4004.25
+2023-04-07,Rent,Bus fare,1402.56
+2023-11-21,Books,Cleaning supplies,4342.57
+2023-07-30,Investment,Bought new shoes,852.01
+2023-08-26,Personal Care,Pharmacy visit,3458.02
+2023-10-29,Education,Netflix subscription,4329.45
+2023-11-20,Dining Out,Lunch at food court,3290.51
+2023-12-01,Travel,Spa session,3934.18
+2023-05-15,Insurance,Spa session,791.13
+2023-11-26,Subscriptions,Bought vegetables and fruits,2434.86
+2023-11-03,Home Supplies,Magazine subscription,1755.03
+2023-11-07,Subscriptions,Weekend getaway,869.05
+2023-06-21,Rent,Pharmacy visit,4210.91
+2023-05-26,Utilities,Purchased novel,2471.22
+2023-08-03,Fitness,Online course fee,525.34
+2023-01-14,Groceries,Yoga class fee,2438.88
+2023-05-07,Education,Flight booking,3278.35
+2023-10-09,Entertainment,Magazine subscription,2942.35
+2023-12-06,Gifts,Stock investment,4834.74
+2023-10-13,Home Supplies,Stock investment,3374.3
+2023-04-18,Insurance,Electricity bill payment,2555.59
+2023-02-18,Subscriptions,Netflix subscription,2080.29
+2023-06-23,Fitness,Cleaning supplies,4793.45
+2023-12-19,Travel,Doctor appointment,4245.36
+2023-11-15,Entertainment,Doctor appointment,2448.94
+2023-11-04,Healthcare,Internet bill,2126.62
+2023-07-21,Investment,Weekend getaway,3779.33
+2023-03-09,Personal Care,Magazine subscription,1837.01
+2023-05-22,Investment,Monthly rent payment,2021.1
+2023-08-21,Education,Gift for parents,2424.81
+2023-06-12,Utilities,Uber ride,3288.13
+2023-01-25,Travel,Laptop accessories,1734.51
+2023-12-09,Books,Stock investment,528.63
+2023-03-25,Gifts,Dinner at a restaurant,1311.88
+2023-10-19,Home Supplies,Gym membership,4097.85
+2023-04-27,Investment,Cleaning supplies,2766.35
+2023-11-09,Clothing,Uber ride,242.48
+2023-03-21,Clothing,Health insurance premium,4472.06
+2023-12-25,Home Supplies,Health insurance premium,1106.72
+2023-01-11,Rent,Mobile recharge,4360.78
+2023-09-30,Pet Care,Bus fare,1227.8
+2023-02-13,Groceries,Online course fee,3045.45
+2023-02-18,Healthcare,Car insurance,1975.21
+2023-01-04,Groceries,Vet appointment,1326.63
+2023-02-06,Education,Weekend getaway,751.3
+2023-07-24,Subscriptions,Toiletries purchase,4046.94
+2023-03-22,Home Supplies,Online course fee,4356.04
+2023-12-29,Groceries,New backpack,2205.0
+2023-08-04,Entertainment,Movie tickets,3604.64
+2023-07-10,Investment,Gym membership,3266.85
+2023-03-17,Rent,Uber ride,4468.32
+2023-02-17,Travel,Health insurance premium,189.76
+2023-12-15,Fitness,Gift for parents,2154.17
+2023-09-20,Fitness,Flight booking,1782.18
+2023-10-24,Personal Care,Toiletries purchase,987.73
+2023-09-21,Dining Out,Bought vegetables and fruits,4578.66
+2023-06-14,Pet Care,Flight booking,1088.52
+2023-07-22,Clothing,Lunch at food court,1221.39
+2023-01-03,Healthcare,Internet bill,659.8
+2023-10-22,Subscriptions,Weekend getaway,3514.71
+2023-08-21,Healthcare,Purchased novel,3818.61
+2023-05-27,Gifts,Birthday gift for friend,3381.24
+2023-11-05,Utilities,Uber ride,4656.11
+2023-06-10,Home Supplies,Car insurance,3296.37
+2023-08-02,Pet Care,Lunch at food court,3683.99
+2023-03-19,Personal Care,Monthly rent payment,2283.19
+2023-01-05,Healthcare,Dinner at a restaurant,3625.33
+2023-09-19,Personal Care,Flight booking,1364.56
+2023-04-20,Insurance,Purchased novel,1809.91
+2023-10-19,Clothing,Lunch at food court,4866.93
+2023-11-05,Home Supplies,Gym membership,4934.2
+2023-10-21,Fitness,Child tuition fee,4380.05
+2023-11-07,Books,Doctor appointment,2431.83
+2023-01-12,Utilities,Gym membership,3336.35
+2023-08-15,Utilities,Bought vegetables and fruits,2330.55
+2023-12-09,Personal Care,Pharmacy visit,2316.34
+2023-10-07,Pet Care,Purchased novel,1219.52
+2023-08-15,Healthcare,Train ticket to city,3537.69
+2023-03-06,Pet Care,Pharmacy visit,4340.61
+2023-04-04,Personal Care,Purchased novel,484.1
+2023-07-06,Rent,Toiletries purchase,1915.62
+2023-08-27,Home Supplies,Yoga class fee,4986.67
+2023-04-17,Rent,Electricity bill payment,4836.19
+2023-08-07,Books,Monthly rent payment,2441.4
+2023-09-26,Utilities,Doctor appointment,4099.86
+2023-06-19,Gifts,Bus fare,2860.07
+2023-11-01,Fitness,Mobile recharge,2518.2
+2023-04-08,Fitness,Water bill,743.4
+2023-07-07,Home Supplies,Train ticket to city,390.27
+2023-02-13,Home Supplies,Weekend getaway,4767.05
+2023-04-26,Subscriptions,Bought new shoes,2382.85
+2023-03-08,Pet Care,Health insurance premium,3041.68
+2023-01-30,Gifts,Birthday gift for friend,3958.57
+2023-04-12,Education,Haircut and grooming,2293.53
+2023-07-06,Entertainment,Uber ride,737.61
+2023-09-15,Investment,Monthly rent payment,1546.79
+2023-08-21,Books,Lunch at food court,4016.54
+2023-05-14,Home Supplies,Internet bill,1621.05
+2023-11-08,Utilities,New backpack,3249.48
+2023-07-26,Dining Out,Bus fare,4844.08
+2023-03-03,Fitness,Doctor appointment,1805.11
+2023-10-11,Healthcare,Bus fare,3683.71
+2023-05-16,Entertainment,Train ticket to city,2256.21
+2023-09-07,Groceries,Mobile recharge,3498.59
+2023-05-27,Pet Care,Netflix subscription,874.42
+2023-01-15,Gifts,Birthday gift for friend,3676.29
+2023-08-24,Insurance,Dinner at a restaurant,2646.31
+2023-10-19,Gifts,Pharmacy visit,797.98
+2023-07-03,Healthcare,Netflix subscription,2274.57
+2023-06-20,Clothing,Stock investment,3692.25
+2023-11-23,Investment,Birthday gift for friend,1665.18
+2023-06-08,Subscriptions,Stock investment,1786.75
+2023-06-27,Travel,Toiletries purchase,1642.53
+2023-11-24,Subscriptions,Uber ride,1025.64
+2023-10-19,Pet Care,Bus fare,2225.55
+2023-05-05,Utilities,Online course fee,2195.5
+2023-06-12,Subscriptions,New backpack,1781.86
+2023-10-04,Utilities,Purchased novel,735.38
+2023-10-29,Dining Out,Doctor appointment,837.65
+2023-02-20,Pet Care,Toiletries purchase,1969.4
+2023-07-28,Entertainment,Gym membership,3273.05
+2023-06-11,Subscriptions,Doctor appointment,560.62
+2023-09-15,Travel,Doctor appointment,716.36
+2023-12-13,Rent,Magazine subscription,590.54
+2023-10-16,Fitness,Gift for parents,699.73
+2023-04-01,Education,Haircut and grooming,4259.74
+2023-05-17,Pet Care,Electricity bill payment,3663.48
+2023-03-08,Personal Care,Weekend getaway,4571.63
+2023-02-08,Home Supplies,New backpack,2389.27
+2023-09-30,Rent,Bought vegetables and fruits,4964.68
+2023-08-20,Gifts,New backpack,1339.84
+2023-03-09,Groceries,Pharmacy visit,4882.81
+2023-06-26,Travel,Yoga class fee,390.4
+2023-01-15,Investment,New backpack,1432.45
+2023-04-17,Fitness,Spa session,2928.48
+2023-06-20,Fitness,Stock investment,1319.1
+2023-06-20,Subscriptions,Mobile recharge,4553.74
+2023-02-11,Gifts,Birthday gift for friend,2592.8
+2023-02-27,Gifts,Haircut and grooming,4913.62
+2023-06-26,Education,Movie tickets,1124.06
+2023-11-30,Insurance,Birthday gift for friend,1450.92
+2023-10-04,Dining Out,New backpack,3445.82
+2023-01-05,Education,Health insurance premium,1596.21
+2023-12-13,Subscriptions,Online course fee,821.6
+2023-03-30,Gifts,Train ticket to city,474.89
+2023-11-20,Fitness,Concert ticket,4329.55
+2023-05-17,Dining Out,Dinner at a restaurant,4051.6
+2023-08-30,Personal Care,Uber ride,4359.85
+2023-08-07,Subscriptions,Bus fare,2583.81
+2023-07-28,Education,Bought vegetables and fruits,856.32
+2023-06-17,Pet Care,Gym membership,1827.34
+2023-11-18,Home Supplies,Uber ride,4831.57
+2023-08-28,Insurance,Train ticket to city,4614.97
+2023-05-13,Fitness,Internet bill,3809.77
+2023-04-01,Clothing,Monthly rent payment,530.65
+2023-08-10,Utilities,Bought new shoes,4336.48
+2023-05-16,Entertainment,Monthly rent payment,3147.53
+2023-07-26,Insurance,Online course fee,2855.8
+2023-09-19,Healthcare,Magazine subscription,1551.79
+2023-10-24,Personal Care,Weekend getaway,2892.5
+2023-03-22,Groceries,Amazon shopping,253.97
+2023-11-11,Subscriptions,New backpack,552.16
+2023-12-01,Dining Out,Online course fee,2483.49
+2023-08-18,Clothing,Spa session,4309.82
+2023-10-23,Groceries,Monthly rent payment,4613.38
+2023-01-18,Gifts,Concert ticket,816.47
+2023-01-24,Clothing,Mobile recharge,1483.04
+2023-07-16,Dining Out,Uber ride,673.78
+2023-01-02,Investment,Stock investment,466.46
+2023-07-24,Healthcare,Pharmacy visit,1524.58
+2023-10-03,Entertainment,Internet bill,2669.54
+2023-08-27,Entertainment,Doctor appointment,229.16
+2023-11-22,Subscriptions,Vet appointment,249.0
+2023-01-02,Investment,Bought vegetables and fruits,1944.61
+2023-06-25,Travel,Movie tickets,334.02
+2023-06-20,Groceries,Vet appointment,139.25
+2023-01-01,Investment,Purchased novel,4289.76
+2023-04-06,Dining Out,New backpack,4574.21
+2023-03-20,Home Supplies,Dinner at a restaurant,3760.55
+2023-02-18,Investment,Bought new shoes,2532.38
+2023-03-29,Travel,Online course fee,3908.2
+2023-07-23,Home Supplies,Car insurance,361.18
+2023-08-01,Books,Movie tickets,3944.05
+2023-11-06,Rent,Electricity bill payment,1978.12
+2023-01-03,Personal Care,Flight booking,3163.53
+2023-07-23,Rent,Purchased novel,1651.26
+2023-11-11,Clothing,Birthday gift for friend,2023.83
+2023-01-16,Books,Monthly rent payment,1861.61
+2023-09-24,Entertainment,Electricity bill payment,4204.6
+2023-12-07,Dining Out,Uber ride,4404.8
+2023-04-16,Personal Care,Doctor appointment,890.04
+2023-07-20,Fitness,Bought vegetables and fruits,2814.03
+2023-07-24,Insurance,Yoga class fee,4075.9
+2023-10-25,Travel,New backpack,3936.79
+2023-08-23,Entertainment,Internet bill,207.77
+2023-08-18,Travel,Uber ride,1876.4
+2023-03-04,Clothing,Internet bill,1577.39
+2023-06-27,Home Supplies,Monthly rent payment,3364.47
+2023-07-19,Pet Care,Pharmacy visit,3448.35
+2023-12-12,Fitness,Magazine subscription,79.02
+2023-06-04,Fitness,Movie tickets,99.17
+2023-01-29,Subscriptions,Electricity bill payment,3383.49
+2023-04-26,Books,Bought vegetables and fruits,2346.31
+2023-07-17,Travel,Car insurance,1175.39
+2023-05-21,Groceries,Haircut and grooming,2251.22
+2023-01-03,Healthcare,Mobile recharge,2355.17
+2023-02-16,Home Supplies,Train ticket to city,2444.93
+2023-06-21,Personal Care,Lunch at food court,2407.38
+2023-09-16,Dining Out,Magazine subscription,761.34
+2023-01-26,Travel,Monthly rent payment,3078.19
+2023-08-27,Books,Bus fare,294.23
+2023-11-07,Rent,Netflix subscription,3963.12

@@ -1,0 +1,501 @@
+Date,Category,Description
+2023-08-21,Entertainment,Gym membership
+2023-10-23,Travel,Dinner at a restaurant
+2023-12-21,Gifts,Doctor appointment
+2023-11-11,Personal Care,Concert ticket
+2023-02-12,Investment,Train ticket to city
+2023-01-26,Pet Care,Flight booking
+2023-03-14,Home Supplies,Child tuition fee
+2023-05-08,Entertainment,Vet appointment
+2023-07-18,Healthcare,Concert ticket
+2023-08-04,Subscriptions,Pharmacy visit
+2023-02-27,Utilities,Gift for parents
+2023-02-09,Education,Doctor appointment
+2023-03-08,Fitness,Bought vegetables and fruits
+2023-07-08,Education,Cleaning supplies
+2023-12-28,Books,Amazon shopping
+2023-08-23,Entertainment,Vet appointment
+2023-12-04,Investment,Amazon shopping
+2023-12-19,Groceries,Electricity bill payment
+2023-08-15,Groceries,Gym membership
+2023-07-19,Groceries,Weekend getaway
+2023-01-22,Utilities,Vet appointment
+2023-09-22,Dining Out,Weekend getaway
+2023-05-05,Healthcare,Cleaning supplies
+2023-05-20,Insurance,Doctor appointment
+2023-04-09,Clothing,Toiletries purchase
+2023-11-21,Education,Concert ticket
+2023-12-13,Books,Birthday gift for friend
+2023-08-30,Entertainment,Water bill
+2023-01-17,Education,Purchased novel
+2023-05-02,Travel,Spa session
+2023-01-19,Subscriptions,Amazon shopping
+2023-04-27,Books,Vet appointment
+2023-09-01,Education,Online course fee
+2023-06-02,Healthcare,Child tuition fee
+2023-09-18,Entertainment,Stock investment
+2023-11-23,Investment,Dinner at a restaurant
+2023-04-03,Insurance,Laptop accessories
+2023-05-09,Pet Care,Water bill
+2023-01-10,Entertainment,Online course fee
+2023-08-24,Personal Care,Bought new shoes
+2023-08-01,Education,Concert ticket
+2023-09-26,Books,Yoga class fee
+2023-01-16,Groceries,Netflix subscription
+2023-10-31,Groceries,Bought new shoes
+2023-09-10,Subscriptions,Stock investment
+2023-01-20,Education,Spa session
+2023-08-02,Pet Care,Bought new shoes
+2023-05-13,Healthcare,Electricity bill payment
+2023-10-18,Insurance,Flight booking
+2023-08-09,Pet Care,Birthday gift for friend
+2023-05-02,Rent,Online course fee
+2023-11-21,Pet Care,Bus fare
+2023-04-16,Rent,Purchased novel
+2023-01-10,Books,Yoga class fee
+2023-01-10,Entertainment,Movie tickets
+2023-09-28,Healthcare,Amazon shopping
+2023-05-26,Gifts,Birthday gift for friend
+2023-09-02,Groceries,Netflix subscription
+2023-11-06,Utilities,Magazine subscription
+2023-04-27,Groceries,Train ticket to city
+2023-08-15,Education,Water bill
+2023-10-28,Healthcare,Flight booking
+2023-04-26,Rent,Movie tickets
+2023-10-07,Insurance,Internet bill
+2023-01-30,Dining Out,Vet appointment
+2023-07-23,Fitness,Bus fare
+2023-03-05,Books,Electricity bill payment
+2023-01-22,Rent,Uber ride
+2023-02-18,Pet Care,Concert ticket
+2023-08-11,Personal Care,Bus fare
+2023-07-07,Rent,Stock investment
+2023-05-15,Fitness,Uber ride
+2023-05-19,Insurance,Child tuition fee
+2023-09-02,Healthcare,Pharmacy visit
+2023-08-05,Gifts,Monthly rent payment
+2023-10-09,Home Supplies,Doctor appointment
+2023-08-12,Personal Care,Spa session
+2023-11-17,Clothing,Stock investment
+2023-03-10,Education,Birthday gift for friend
+2023-12-04,Investment,Movie tickets
+2023-10-28,Rent,Weekend getaway
+2023-09-04,Groceries,Flight booking
+2023-09-19,Home Supplies,Cleaning supplies
+2023-11-03,Fitness,Pharmacy visit
+2023-06-17,Entertainment,Water bill
+2023-12-16,Books,Gym membership
+2023-08-08,Clothing,Cleaning supplies
+2023-10-06,Entertainment,Lunch at food court
+2023-05-06,Rent,Concert ticket
+2023-08-23,Gifts,Movie tickets
+2023-07-13,Groceries,Lunch at food court
+2023-08-31,Entertainment,Gift for parents
+2023-09-19,Home Supplies,Child tuition fee
+2023-02-28,Travel,Flight booking
+2023-06-20,Rent,Bought new shoes
+2023-06-27,Pet Care,New backpack
+2023-02-05,Entertainment,Netflix subscription
+2023-02-04,Dining Out,Internet bill
+2023-12-30,Pet Care,Purchased novel
+2023-05-15,Clothing,Toiletries purchase
+2023-05-06,Groceries,Dinner at a restaurant
+2023-04-11,Home Supplies,Mobile recharge
+2023-01-22,Gifts,Lunch at food court
+2023-04-10,Subscriptions,Pharmacy visit
+2023-05-19,Fitness,Lunch at food court
+2023-03-21,Home Supplies,Monthly rent payment
+2023-04-04,Education,Concert ticket
+2023-05-24,Subscriptions,Laptop accessories
+2023-12-31,Rent,Netflix subscription
+2023-10-01,Home Supplies,Bus fare
+2023-09-25,Groceries,Amazon shopping
+2023-02-02,Gifts,Pharmacy visit
+2023-10-11,Personal Care,Bought new shoes
+2023-07-01,Utilities,Concert ticket
+2023-12-24,Entertainment,Bought new shoes
+2023-09-22,Pet Care,Bought vegetables and fruits
+2023-09-04,Groceries,Bought new shoes
+2023-04-26,Fitness,Gift for parents
+2023-10-31,Utilities,Spa session
+2023-07-11,Personal Care,Lunch at food court
+2023-06-02,Education,Pharmacy visit
+2023-12-09,Rent,Car insurance
+2023-01-09,Home Supplies,Toiletries purchase
+2023-04-22,Entertainment,Stock investment
+2023-11-06,Travel,New backpack
+2023-11-13,Travel,Child tuition fee
+2023-11-15,Entertainment,Mobile recharge
+2023-09-16,Insurance,Concert ticket
+2023-05-21,Groceries,Cleaning supplies
+2023-04-28,Gifts,Uber ride
+2023-06-29,Pet Care,Dinner at a restaurant
+2023-04-17,Clothing,Cleaning supplies
+2023-06-22,Utilities,Vet appointment
+2023-10-14,Books,Cleaning supplies
+2023-11-16,Travel,Concert ticket
+2023-07-25,Clothing,Monthly rent payment
+2023-03-31,Fitness,Water bill
+2023-10-04,Home Supplies,Child tuition fee
+2023-07-30,Subscriptions,Internet bill
+2023-07-21,Utilities,Cleaning supplies
+2023-08-07,Fitness,Uber ride
+2023-11-28,Gifts,Toiletries purchase
+2023-05-01,Books,Spa session
+2023-04-07,Dining Out,Concert ticket
+2023-08-08,Fitness,Internet bill
+2023-06-28,Pet Care,Concert ticket
+2023-08-05,Rent,Yoga class fee
+2023-04-14,Home Supplies,Birthday gift for friend
+2023-10-26,Entertainment,Bus fare
+2023-07-28,Education,Online course fee
+2023-08-28,Investment,Doctor appointment
+2023-08-21,Gifts,New backpack
+2023-11-14,Books,Doctor appointment
+2023-04-02,Utilities,Amazon shopping
+2023-06-10,Entertainment,Internet bill
+2023-07-24,Dining Out,Doctor appointment
+2023-01-21,Pet Care,Mobile recharge
+2023-06-05,Entertainment,Purchased novel
+2023-12-11,Books,Weekend getaway
+2023-02-22,Clothing,Gym membership
+2023-03-27,Home Supplies,Yoga class fee
+2023-02-11,Fitness,Pharmacy visit
+2023-09-07,Groceries,Stock investment
+2023-08-09,Travel,Yoga class fee
+2023-04-25,Home Supplies,Mobile recharge
+2023-03-25,Pet Care,Flight booking
+2023-09-19,Entertainment,Birthday gift for friend
+2023-02-11,Home Supplies,Netflix subscription
+2023-05-26,Personal Care,Toiletries purchase
+2023-12-22,Fitness,Haircut and grooming
+2023-02-09,Books,Internet bill
+2023-10-24,Gifts,Netflix subscription
+2023-11-09,Entertainment,Spa session
+2023-09-12,Pet Care,Netflix subscription
+2023-10-15,Travel,Concert ticket
+2023-10-07,Entertainment,Doctor appointment
+2023-07-28,Home Supplies,Online course fee
+2023-04-11,Rent,Magazine subscription
+2023-06-03,Books,Health insurance premium
+2023-03-07,Gifts,Water bill
+2023-07-14,Books,Cleaning supplies
+2023-07-20,Home Supplies,Gym membership
+2023-12-04,Dining Out,Flight booking
+2023-07-14,Rent,Water bill
+2023-06-25,Rent,Monthly rent payment
+2023-09-01,Travel,Mobile recharge
+2023-11-23,Groceries,Lunch at food court
+2023-01-18,Entertainment,Gym membership
+2023-12-07,Gifts,Yoga class fee
+2023-12-01,Subscriptions,New backpack
+2023-12-04,Insurance,Uber ride
+2023-07-20,Investment,Movie tickets
+2023-11-14,Books,Spa session
+2023-12-06,Fitness,Internet bill
+2023-06-03,Personal Care,Yoga class fee
+2023-07-09,Healthcare,Dinner at a restaurant
+2023-06-11,Entertainment,Online course fee
+2023-08-19,Personal Care,Child tuition fee
+2023-10-07,Personal Care,Vet appointment
+2023-10-17,Groceries,Weekend getaway
+2023-06-28,Utilities,Yoga class fee
+2023-11-23,Fitness,Stock investment
+2023-10-09,Clothing,Haircut and grooming
+2023-08-26,Travel,Uber ride
+2023-04-27,Entertainment,Stock investment
+2023-12-10,Education,Yoga class fee
+2023-03-03,Books,New backpack
+2023-05-10,Entertainment,Vet appointment
+2023-11-07,Healthcare,Laptop accessories
+2023-01-29,Gifts,Movie tickets
+2023-01-16,Dining Out,Mobile recharge
+2023-10-14,Healthcare,Pharmacy visit
+2023-08-05,Clothing,Dinner at a restaurant
+2023-11-02,Dining Out,Concert ticket
+2023-06-05,Clothing,Cleaning supplies
+2023-12-01,Utilities,Uber ride
+2023-12-15,Travel,Birthday gift for friend
+2023-08-07,Dining Out,Doctor appointment
+2023-08-25,Utilities,Toiletries purchase
+2023-10-13,Travel,Netflix subscription
+2023-12-14,Fitness,Internet bill
+2023-06-19,Healthcare,Health insurance premium
+2023-08-31,Investment,Mobile recharge
+2023-06-24,Utilities,Water bill
+2023-10-10,Personal Care,Train ticket to city
+2023-01-30,Subscriptions,Bus fare
+2023-12-27,Insurance,Bus fare
+2023-06-15,Fitness,Bought vegetables and fruits
+2023-07-27,Home Supplies,Netflix subscription
+2023-02-07,Education,Haircut and grooming
+2023-04-10,Personal Care,Bought vegetables and fruits
+2023-02-18,Pet Care,Monthly rent payment
+2023-05-21,Books,Health insurance premium
+2023-03-09,Insurance,Cleaning supplies
+2023-07-22,Utilities,Pharmacy visit
+2023-02-13,Subscriptions,Water bill
+2023-07-05,Insurance,Purchased novel
+2023-04-08,Utilities,Vet appointment
+2023-05-10,Subscriptions,Amazon shopping
+2023-09-23,Groceries,Spa session
+2023-03-06,Books,Electricity bill payment
+2023-08-13,Healthcare,Health insurance premium
+2023-07-15,Groceries,Weekend getaway
+2023-06-27,Dining Out,Mobile recharge
+2023-01-02,Clothing,Magazine subscription
+2023-07-25,Personal Care,Birthday gift for friend
+2023-08-04,Home Supplies,Bought new shoes
+2023-05-28,Rent,Mobile recharge
+2023-09-12,Pet Care,Birthday gift for friend
+2023-01-29,Education,Birthday gift for friend
+2023-10-07,Gifts,Uber ride
+2023-06-06,Healthcare,Pharmacy visit
+2023-08-08,Groceries,Online course fee
+2023-07-05,Entertainment,Monthly rent payment
+2023-11-11,Gifts,Spa session
+2023-06-03,Books,Bought vegetables and fruits
+2023-06-09,Gifts,Yoga class fee
+2023-11-04,Education,Amazon shopping
+2023-01-17,Gifts,Uber ride
+2023-04-15,Books,Car insurance
+2023-08-30,Healthcare,Netflix subscription
+2023-01-18,Clothing,Pharmacy visit
+2023-12-15,Rent,Toiletries purchase
+2023-08-08,Travel,Mobile recharge
+2023-01-30,Dining Out,Gym membership
+2023-08-06,Fitness,Car insurance
+2023-07-15,Personal Care,Movie tickets
+2023-02-14,Entertainment,Toiletries purchase
+2023-11-26,Clothing,Purchased novel
+2023-07-26,Home Supplies,Water bill
+2023-10-26,Travel,Train ticket to city
+2023-09-12,Travel,Online course fee
+2023-08-30,Insurance,Pharmacy visit
+2023-02-22,Utilities,Uber ride
+2023-05-08,Clothing,Birthday gift for friend
+2023-01-20,Utilities,Haircut and grooming
+2023-10-09,Books,Gift for parents
+2023-04-03,Travel,Car insurance
+2023-01-29,Gifts,Pharmacy visit
+2023-10-08,Fitness,Gift for parents
+2023-10-12,Utilities,Bought new shoes
+2023-10-09,Entertainment,Weekend getaway
+2023-07-23,Dining Out,Amazon shopping
+2023-07-18,Healthcare,Electricity bill payment
+2023-05-09,Healthcare,Toiletries purchase
+2023-06-16,Books,Cleaning supplies
+2023-01-10,Healthcare,Movie tickets
+2023-08-07,Insurance,New backpack
+2023-02-17,Clothing,Stock investment
+2023-04-07,Rent,Bus fare
+2023-11-21,Books,Cleaning supplies
+2023-07-30,Investment,Bought new shoes
+2023-08-26,Personal Care,Pharmacy visit
+2023-10-29,Education,Netflix subscription
+2023-11-20,Dining Out,Lunch at food court
+2023-12-01,Travel,Spa session
+2023-05-15,Insurance,Spa session
+2023-11-26,Subscriptions,Bought vegetables and fruits
+2023-11-03,Home Supplies,Magazine subscription
+2023-11-07,Subscriptions,Weekend getaway
+2023-06-21,Rent,Pharmacy visit
+2023-05-26,Utilities,Purchased novel
+2023-08-03,Fitness,Online course fee
+2023-01-14,Groceries,Yoga class fee
+2023-05-07,Education,Flight booking
+2023-10-09,Entertainment,Magazine subscription
+2023-12-06,Gifts,Stock investment
+2023-10-13,Home Supplies,Stock investment
+2023-04-18,Insurance,Electricity bill payment
+2023-02-18,Subscriptions,Netflix subscription
+2023-06-23,Fitness,Cleaning supplies
+2023-12-19,Travel,Doctor appointment
+2023-11-15,Entertainment,Doctor appointment
+2023-11-04,Healthcare,Internet bill
+2023-07-21,Investment,Weekend getaway
+2023-03-09,Personal Care,Magazine subscription
+2023-05-22,Investment,Monthly rent payment
+2023-08-21,Education,Gift for parents
+2023-06-12,Utilities,Uber ride
+2023-01-25,Travel,Laptop accessories
+2023-12-09,Books,Stock investment
+2023-03-25,Gifts,Dinner at a restaurant
+2023-10-19,Home Supplies,Gym membership
+2023-04-27,Investment,Cleaning supplies
+2023-11-09,Clothing,Uber ride
+2023-03-21,Clothing,Health insurance premium
+2023-12-25,Home Supplies,Health insurance premium
+2023-01-11,Rent,Mobile recharge
+2023-09-30,Pet Care,Bus fare
+2023-02-13,Groceries,Online course fee
+2023-02-18,Healthcare,Car insurance
+2023-01-04,Groceries,Vet appointment
+2023-02-06,Education,Weekend getaway
+2023-07-24,Subscriptions,Toiletries purchase
+2023-03-22,Home Supplies,Online course fee
+2023-12-29,Groceries,New backpack
+2023-08-04,Entertainment,Movie tickets
+2023-07-10,Investment,Gym membership
+2023-03-17,Rent,Uber ride
+2023-02-17,Travel,Health insurance premium
+2023-12-15,Fitness,Gift for parents
+2023-09-20,Fitness,Flight booking
+2023-10-24,Personal Care,Toiletries purchase
+2023-09-21,Dining Out,Bought vegetables and fruits
+2023-06-14,Pet Care,Flight booking
+2023-07-22,Clothing,Lunch at food court
+2023-01-03,Healthcare,Internet bill
+2023-10-22,Subscriptions,Weekend getaway
+2023-08-21,Healthcare,Purchased novel
+2023-05-27,Gifts,Birthday gift for friend
+2023-11-05,Utilities,Uber ride
+2023-06-10,Home Supplies,Car insurance
+2023-08-02,Pet Care,Lunch at food court
+2023-03-19,Personal Care,Monthly rent payment
+2023-01-05,Healthcare,Dinner at a restaurant
+2023-09-19,Personal Care,Flight booking
+2023-04-20,Insurance,Purchased novel
+2023-10-19,Clothing,Lunch at food court
+2023-11-05,Home Supplies,Gym membership
+2023-10-21,Fitness,Child tuition fee
+2023-11-07,Books,Doctor appointment
+2023-01-12,Utilities,Gym membership
+2023-08-15,Utilities,Bought vegetables and fruits
+2023-12-09,Personal Care,Pharmacy visit
+2023-10-07,Pet Care,Purchased novel
+2023-08-15,Healthcare,Train ticket to city
+2023-03-06,Pet Care,Pharmacy visit
+2023-04-04,Personal Care,Purchased novel
+2023-07-06,Rent,Toiletries purchase
+2023-08-27,Home Supplies,Yoga class fee
+2023-04-17,Rent,Electricity bill payment
+2023-08-07,Books,Monthly rent payment
+2023-09-26,Utilities,Doctor appointment
+2023-06-19,Gifts,Bus fare
+2023-11-01,Fitness,Mobile recharge
+2023-04-08,Fitness,Water bill
+2023-07-07,Home Supplies,Train ticket to city
+2023-02-13,Home Supplies,Weekend getaway
+2023-04-26,Subscriptions,Bought new shoes
+2023-03-08,Pet Care,Health insurance premium
+2023-01-30,Gifts,Birthday gift for friend
+2023-04-12,Education,Haircut and grooming
+2023-07-06,Entertainment,Uber ride
+2023-09-15,Investment,Monthly rent payment
+2023-08-21,Books,Lunch at food court
+2023-05-14,Home Supplies,Internet bill
+2023-11-08,Utilities,New backpack
+2023-07-26,Dining Out,Bus fare
+2023-03-03,Fitness,Doctor appointment
+2023-10-11,Healthcare,Bus fare
+2023-05-16,Entertainment,Train ticket to city
+2023-09-07,Groceries,Mobile recharge
+2023-05-27,Pet Care,Netflix subscription
+2023-01-15,Gifts,Birthday gift for friend
+2023-08-24,Insurance,Dinner at a restaurant
+2023-10-19,Gifts,Pharmacy visit
+2023-07-03,Healthcare,Netflix subscription
+2023-06-20,Clothing,Stock investment
+2023-11-23,Investment,Birthday gift for friend
+2023-06-08,Subscriptions,Stock investment
+2023-06-27,Travel,Toiletries purchase
+2023-11-24,Subscriptions,Uber ride
+2023-10-19,Pet Care,Bus fare
+2023-05-05,Utilities,Online course fee
+2023-06-12,Subscriptions,New backpack
+2023-10-04,Utilities,Purchased novel
+2023-10-29,Dining Out,Doctor appointment
+2023-02-20,Pet Care,Toiletries purchase
+2023-07-28,Entertainment,Gym membership
+2023-06-11,Subscriptions,Doctor appointment
+2023-09-15,Travel,Doctor appointment
+2023-12-13,Rent,Magazine subscription
+2023-10-16,Fitness,Gift for parents
+2023-04-01,Education,Haircut and grooming
+2023-05-17,Pet Care,Electricity bill payment
+2023-03-08,Personal Care,Weekend getaway
+2023-02-08,Home Supplies,New backpack
+2023-09-30,Rent,Bought vegetables and fruits
+2023-08-20,Gifts,New backpack
+2023-03-09,Groceries,Pharmacy visit
+2023-06-26,Travel,Yoga class fee
+2023-01-15,Investment,New backpack
+2023-04-17,Fitness,Spa session
+2023-06-20,Fitness,Stock investment
+2023-06-20,Subscriptions,Mobile recharge
+2023-02-11,Gifts,Birthday gift for friend
+2023-02-27,Gifts,Haircut and grooming
+2023-06-26,Education,Movie tickets
+2023-11-30,Insurance,Birthday gift for friend
+2023-10-04,Dining Out,New backpack
+2023-01-05,Education,Health insurance premium
+2023-12-13,Subscriptions,Online course fee
+2023-03-30,Gifts,Train ticket to city
+2023-11-20,Fitness,Concert ticket
+2023-05-17,Dining Out,Dinner at a restaurant
+2023-08-30,Personal Care,Uber ride
+2023-08-07,Subscriptions,Bus fare
+2023-07-28,Education,Bought vegetables and fruits
+2023-06-17,Pet Care,Gym membership
+2023-11-18,Home Supplies,Uber ride
+2023-08-28,Insurance,Train ticket to city
+2023-05-13,Fitness,Internet bill
+2023-04-01,Clothing,Monthly rent payment
+2023-08-10,Utilities,Bought new shoes
+2023-05-16,Entertainment,Monthly rent payment
+2023-07-26,Insurance,Online course fee
+2023-09-19,Healthcare,Magazine subscription
+2023-10-24,Personal Care,Weekend getaway
+2023-03-22,Groceries,Amazon shopping
+2023-11-11,Subscriptions,New backpack
+2023-12-01,Dining Out,Online course fee
+2023-08-18,Clothing,Spa session
+2023-10-23,Groceries,Monthly rent payment
+2023-01-18,Gifts,Concert ticket
+2023-01-24,Clothing,Mobile recharge
+2023-07-16,Dining Out,Uber ride
+2023-01-02,Investment,Stock investment
+2023-07-24,Healthcare,Pharmacy visit
+2023-10-03,Entertainment,Internet bill
+2023-08-27,Entertainment,Doctor appointment
+2023-11-22,Subscriptions,Vet appointment
+2023-01-02,Investment,Bought vegetables and fruits
+2023-06-25,Travel,Movie tickets
+2023-06-20,Groceries,Vet appointment
+2023-01-01,Investment,Purchased novel
+2023-04-06,Dining Out,New backpack
+2023-03-20,Home Supplies,Dinner at a restaurant
+2023-02-18,Investment,Bought new shoes
+2023-03-29,Travel,Online course fee
+2023-07-23,Home Supplies,Car insurance
+2023-08-01,Books,Movie tickets
+2023-11-06,Rent,Electricity bill payment
+2023-01-03,Personal Care,Flight booking
+2023-07-23,Rent,Purchased novel
+2023-11-11,Clothing,Birthday gift for friend
+2023-01-16,Books,Monthly rent payment
+2023-09-24,Entertainment,Electricity bill payment
+2023-12-07,Dining Out,Uber ride
+2023-04-16,Personal Care,Doctor appointment
+2023-07-20,Fitness,Bought vegetables and fruits
+2023-07-24,Insurance,Yoga class fee
+2023-10-25,Travel,New backpack
+2023-08-23,Entertainment,Internet bill
+2023-08-18,Travel,Uber ride
+2023-03-04,Clothing,Internet bill
+2023-06-27,Home Supplies,Monthly rent payment
+2023-07-19,Pet Care,Pharmacy visit
+2023-12-12,Fitness,Magazine subscription
+2023-06-04,Fitness,Movie tickets
+2023-01-29,Subscriptions,Electricity bill payment
+2023-04-26,Books,Bought vegetables and fruits
+2023-07-17,Travel,Car insurance
+2023-05-21,Groceries,Haircut and grooming
+2023-01-03,Healthcare,Mobile recharge
+2023-02-16,Home Supplies,Train ticket to city
+2023-06-21,Personal Care,Lunch at food court
+2023-09-16,Dining Out,Magazine subscription
+2023-01-26,Travel,Monthly rent payment
+2023-08-27,Books,Bus fare
+2023-11-07,Rent,Netflix subscription

@@ -2,7 +2,7 @@ from sklearn.metrics import mean_absolute_error
 from sklearn.pipeline import Pipeline
 import pandas as pd
 import joblib
-def final_pipeline(trained_model,valid_target,train_ep,valid_ep,train_target,processor):
+def final_pipeline(trained_model,valid_target,train_ep,valid_ep,train_target,processor,MODEL_PATH):
     finalPipeline=Pipeline(
         steps=[
             ('preprocessor', processor),
@@ -19,7 +19,7 @@ def final_pipeline(trained_model,valid_target,train_ep,valid_ep,train_target,pro
     # 'Predicted': predictions,
     # }, index=valid_target.index)
 
-    joblib.dump(finalPipeline, './models/final_model.pkl')
+    joblib.dump(finalPipeline, MODEL_PATH)
 
     # return comparison_df, MAE
 
