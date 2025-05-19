@@ -6,12 +6,17 @@ A comprehensive application to manage and analyze your daily expenses.
 
 - **💵 Expense Recording**: Log expenses with 📂 categories, 💲 amounts, and 📅 dates.
 - **📊 Data Analysis**: Utilize 🧠 machine learning models to predict and evaluate spending patterns.
+- **📈 Forecasting**: Predict future expenses using Prophet and XGBoost models.
+- **🌐 Web Interface**: User-friendly React-based frontend for uploading data and viewing predictions.
 
 ## 🏗️ Project Structure
 
 - 📁 **data/**: Contains datasets used for training and evaluation.
 - 📁 **models/**: Stores trained machine learning models.
 - 📁 **notebook/**: Jupyter notebooks for data exploration and model development.
+- 📁 **frontend/**: React-based frontend for user interaction.
+- 📁 **Prophet_/**: Backend implementation using the Prophet model.
+- 📁 **Using_xgboost/**: Backend implementation using the XGBoost model.
 - 📝 **evaluate.py**: Script to evaluate model performance.
 - 📝 **main.py**: Main application script.
 - 📝 **pipeline.py**: Defines the data processing pipeline.
@@ -20,6 +25,8 @@ A comprehensive application to manage and analyze your daily expenses.
 - 📝 **train.py**: Script to train machine learning models.
 
 ## ⚙️ Installation
+
+### Backend Setup
 
 1. **⬇️ Clone the Repository**:
 
@@ -41,7 +48,29 @@ A comprehensive application to manage and analyze your daily expenses.
    pip install -r requirements.txt
    ```
 
+### Frontend Setup
+
+1. **Navigate to the Frontend Directory**:
+
+   ```sh
+   cd frontend
+   ```
+
+2. **Install Node.js Dependencies**:
+
+   ```sh
+   npm install
+   ```
+
+3. **Start the Development Server**:
+
+   ```sh
+   npm run dev
+   ```
+
 ## 🚀 Usage
+
+### Backend
 
 1. **🔄 Data Preprocessing**:
 
@@ -69,15 +98,34 @@ A comprehensive application to manage and analyze your daily expenses.
 
 4. **▶️ Run the Application**:
 
-   Start the main application:
+   Start the backend application:
 
    ```sh
    python main.py
    ```
 
+### Frontend
+
+1. **Access the Web Interface**:
+
+   Open your browser and navigate to:
+
+   ```
+   http://localhost:5173
+   ```
+
+2. **Upload Data**:
+
+   Use the file uploader to upload a CSV file containing your expense data.
+
+3. **View Predictions**:
+
+   View the forecasted results and download them as a CSV file.
+
 ## 🛠️ Technologies Used
 
-- 🐍 **Programming Languages**: Python
+- 🐍 **Backend**: Python, FastAPI, Prophet, XGBoost
+- 🌐 **Frontend**: React, TailwindCSS, Chart.js
 - 📚 **Libraries**: Jupyter Notebook for 📊 data analysis, machine learning libraries as specified in `requirements.txt`.
 
 ## 🤝 Contributing
