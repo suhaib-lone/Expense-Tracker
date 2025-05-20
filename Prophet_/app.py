@@ -15,7 +15,7 @@ MODEL_PATH = '../models/prophet_model.pkl'
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://expense-tracker-eight-psi-49.vercel.app/"],  # Or specify "http://localhost:5173"
+    allow_origins=["https://expense-tracker-blush-phi.vercel.app/"],  # Or specify "http://localhost:5173"
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
