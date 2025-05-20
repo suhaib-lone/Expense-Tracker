@@ -2,7 +2,7 @@ import axios from 'axios';
 import { PredictionResponse } from '../types';
 
 // Update this URL to match your FastAPI backend
-const API_URL = 'http://localhost:8006';
+const API_URL = 'https://expense-tracker-ioxe.onrender.com';
 
 /**
  * Uploads a CSV file to the forecasting API and returns predictions
