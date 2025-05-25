@@ -19,6 +19,7 @@ app.add_middleware(
         "https://expense-tracker-blush-phi.vercel.app",
         "https://expense-tracker-git-main-suhaib-lones-projects.vercel.app",
         "https://expense-tracker-n22hciz7m-suhaib-lones-projects.vercel.app",
+        "http://localhost:5173"
     ], # Or specify "http://localhost:5173"
     allow_credentials=True,
     allow_methods=["*"],
@@ -33,8 +34,24 @@ def train_model(data):
 # Load and preprocess data
 def load_and_preprocess_data(file_path):
     data = pd.read_csv(file_path)
+
+    # Parse dates in the 'Date' column
+    data['Date'] = pd.to_datetime(data['Date'], errors='coerce')
+
+    # Drop rows with invalid dates
+    data = data.dropna(subset=['Date'])
+
+    # Group by 'Date' and sum the values
     data_grouped = data.groupby('Date').sum().reset_index()
+
+    # Fill missing dates with y=0
+    full_date_range = pd.date_range(start=data_grouped['Date'].min(), end=data_grouped['Date'].max())
+    data_grouped = data_grouped.set_index('Date').reindex(full_date_range, fill_value=0).reset_index()
+    data_grouped.rename(columns={'index': 'Date'}, inplace=True)
+
+    # Rename columns for Prophet compatibility
     data_grouped.rename(columns={'Date': 'ds', 'Amount': 'y'}, inplace=True)
+
     return data_grouped
 
 # data = load_and_preprocess_data('../data/nwd.csv')
