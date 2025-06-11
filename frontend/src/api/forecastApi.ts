@@ -2,7 +2,7 @@ import axios from 'axios';
 import { PredictionResponse } from '../types';
 
 // Update this URL to match your FastAPI backend
-const API_URL = window.location.hostname === 'localhost' ? 'http://localhost:8006' : import.meta.env.VITE_API_URL;
+const API_URL=import.meta.env.VITE_API_URL;
 
 /**
  * Uploads a CSV file to the forecasting API and returns predictions
