@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { PredictionResponse } from '../types';
 
-// Update this URL to match your FastAPI backend
+// Update this URL to match your FastAPI backend:
 const API_URL=import.meta.env.VITE_API_URL;
 
 /**
