@@ -1,0 +1,7 @@
+Importing plotly failed. Interactive plots will not work.
+INFO:     Started server process [29888]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+✅ Database initialized at: /home/tufail/Desktop/Expense-Tracker/Prophet_/expense_tracker.db
+INFO:     127.0.0.1:41812 - "POST /api/splits/create HTTP/1.1" 500 Internal Server Error
